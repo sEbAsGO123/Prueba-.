@@ -24,7 +24,7 @@ public class Tipos{
 		
 		int e;
 
-		e=4;
+		e=5;
 
 		System.out.println(e);
 
